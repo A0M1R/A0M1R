@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @A0M1R
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Amir
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning how to live
+- 💞️ I’m looking to collaborate on my Evolution
 - 📫 How to reach me به سختی
 
 <!---
